@@ -1,0 +1,5 @@
+img = bytearray( [
+    #// font edit begin : monovlsb : 8 : 8 : 8
+    0x10, 0x20, 0x60, 0xE0, 0x7C, 0xFE, 0x2A, 0x0C
+    #// font edit end
+    ])
